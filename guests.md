@@ -14,5 +14,5 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	         |
-| AnvarJonio        | 3             |
+| AnvarJonio        | 3+2           |
 
